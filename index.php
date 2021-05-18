@@ -1,0 +1,3 @@
+success
+
+<?php phpinfo(); ?>
